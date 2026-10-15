@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Mee-Rha-Sol
+  pageTitle: Mi-Ra-Sol
   pageTitleSuffix: "Aditya Prayoga's notes that grow and connect over time."
   enableSPA: true
   enablePopovers: true
@@ -16,7 +16,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Indie Flower
-      body: Source Sans Pro
+      body: Source Sans Prod
       code: IBM Plex Mono
     colors:
       lightMode:

@@ -12,3 +12,14 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+# AI instruction files and local agent skills
+AGENTS.md
+agents.md
+CLAUDE.md
+claude.md
+.agents/
+.claude/
+.codex/
+superpowers/
+.superpowers/
